@@ -14,7 +14,7 @@ tab_width=4
 tab_use_spaces=0
 explorer_path=.
 inherits_from=
-current_source=Camera.h
+current_source=main.cpp
 path_char=\
 [source]
 path=main.cpp
@@ -23,12 +23,8 @@ open=true
 [header]
 path=Camera.h
 cursor=89:2
-open=true
 [other]
-path=Leeme.txt
-cursor=4:447
-[other]
-path=FlashShader.frag
+path=assets\shaders\FlashShader.frag
 cursor=0:0
 [config]
 name=Debug_Win32
